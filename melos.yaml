@@ -1,4 +1,4 @@
-name: rudder_sdk_flutter_monorepo
+name: rudder_sdk_flutter
 
 repository: https://github.com/rudderlabs/rudder-sdk-flutter
 sdkPath: auto
