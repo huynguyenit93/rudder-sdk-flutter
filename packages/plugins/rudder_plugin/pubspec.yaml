@@ -14,7 +14,8 @@ dependencies:
   flutter:
     sdk: flutter
   rudder_sdk_flutter_platform_interface: ^3.0.0
-  rudder_plugin_android: ^3.0.1
+  rudder_plugin_android: 
+    path: ./rudder_plugin_android
   rudder_plugin_ios: ^3.0.1
   rudder_plugin_web: ^3.0.1
 dev_dependencies:
