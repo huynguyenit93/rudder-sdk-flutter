@@ -1,4 +1,4 @@
-name: rudder_sdk_flutter_monorepo
+name: rudder_sdk_flutter
 version: 4.1.0
 description: The RudderStack Flutter SDK Monorepo.
 homepage: https://github.com/rudderlabs/rudder-sdk-flutter
